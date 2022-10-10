@@ -8,4 +8,4 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-FF3366.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-16B7FB.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contributions-grid-snake.svg)
